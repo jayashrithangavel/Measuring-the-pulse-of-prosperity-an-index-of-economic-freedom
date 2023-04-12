@@ -2,4 +2,6 @@
 
 
 
-workbook public link:  https://public.tableau.com/views/MeasuringthepulseofprosperityAnindexofeconomicfreedomanalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+dashboard public link:  https://public.tableau.com/views/MeasuringthepulseofprosperityAnindexofeconomicfreedomanalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+story publick link:  https://public.tableau.com/views/MeasuringthepulseofprosperityAnindexofeconomicfreedomanalysis/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
