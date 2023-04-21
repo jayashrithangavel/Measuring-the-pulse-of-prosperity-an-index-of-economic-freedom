@@ -1,7 +1,4 @@
 # Measuring-the-pulse-of-prosperity-an-index-of-economic-freedom
 
+workbooklink:  https://public.tableau.com/app/profile/jayashri2043/viz/MeasuringthepulseofprosperityAnindexofeconomicfreedomanalysis
 
-
-dashboard public link:  https://public.tableau.com/views/MeasuringthepulseofprosperityAnindexofeconomicfreedomanalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
-
-story publick link:  https://public.tableau.com/views/MeasuringthepulseofprosperityAnindexofeconomicfreedomanalysis/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
